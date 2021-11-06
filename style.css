@@ -5,3 +5,13 @@ h3{
     font-size:large;
 }
 
+.club{
+    color:rgb(17, 9, 65);
+    font-weight: bold;
+}
+
+.name{
+    color:gold;
+    font-weight: bold;
+    font-size: medium;
+}
